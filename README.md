@@ -1,5 +1,15 @@
-This is my config of nvim.
+#My NVIM Config
 
-I am new to vim, so to start with I've followed a tutorial from NeuralNine on Youtube. You can find his config on his github. My config, even though it has the same plugins as his for now, is not exactly the same. I wish to improve upon this config overtime as I continue learn about git. 
+I used astrovim template to get started and built upon it. 
 
-You can use this config as a starting point as well. 
+I'm a webdev so you'll find added plugins such as `ts`, `js`, `html-css`, `tailwind` & `docker`. 
+
+I have also added the java pack from astro community.
+
+I have added other helper packs such `mini-animate`, `rainbow-delimiters`, `hover-nvim`, `trouble-nvim`.
+
+Apart from this there's come visual customization such as the `catpuccin` theme in `frappe` flavour. `nvim-web-devicons`. 
+
+The startup header text says "Vs Code", you can change it to whatever but I found it funny so, yeah. 
+
+If you decide to use this, go wild with it! Good luck on your nvim journey. Peace.
