@@ -1,4 +1,4 @@
-#My NVIM Config
+# My NVIM Config
 
 I used astrovim template to get started and built upon it. 
 
